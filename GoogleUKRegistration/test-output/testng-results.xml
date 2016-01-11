@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39621" started-at="2016-01-11T16:15:17Z" finished-at="2016-01-11T16:15:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39621" started-at="2016-01-11T16:15:17Z" finished-at="2016-01-11T16:15:56Z">
+      <class name="TestCase.GmailRegistrationTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestCase.GmailRegistrationTest@16c6b08]" name="initialize" is-config="true" duration-ms="11763" started-at="2016-01-11T21:45:05Z" finished-at="2016-01-11T21:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TestCase.GmailRegistrationTest@16c6b08]" name="start" duration-ms="39602" started-at="2016-01-11T21:45:17Z" finished-at="2016-01-11T21:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCase.GmailRegistrationTest@16c6b08]" name="closeBrowser" is-config="true" duration-ms="1083" started-at="2016-01-11T21:45:56Z" finished-at="2016-01-11T21:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCase.GmailRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
